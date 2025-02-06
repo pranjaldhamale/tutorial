@@ -1,2 +1,3 @@
 JavaScript is a versatile, dynamically typed programming language used for interactive web applications, supporting both client-side and server-side development, and integrating seamlessly with HTML, CSS, and a rich standard library.
 good morning
+learnt GitHub today
